@@ -8,5 +8,4 @@ medium /
 hard /
 Each file include 
 -problem name 
--Link
 -clean solution 
